@@ -4,8 +4,8 @@ A simple leap year calculator which is designed by me. It receives a year from t
 
 # Screenshots
 
-
-![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-08 at 14 33 54](https://user-images.githubusercontent.com/61358759/124915267-04c88400-dffa-11eb-8aa6-1faa48bde5f0.png =250x250)
+<img src="https://user-images.githubusercontent.com/61358759/124915267-04c88400-dffa-11eb-8aa6-1faa48bde5f0.png" alt="alt text" width="720" height="1080">
+![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-08 at 14 33 54](https://user-images.githubusercontent.com/61358759/124915267-04c88400-dffa-11eb-8aa6-1faa48bde5f0.png)
 
 
 ![Simulator Screen Shot - iPhone 12 Pro Max - 2021-07-08 at 14 36 07](https://user-images.githubusercontent.com/61358759/124915128-df3b7a80-dff9-11eb-9ace-7d007e37947a.png)
